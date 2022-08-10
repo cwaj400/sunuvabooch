@@ -10,3 +10,8 @@
 :root {
   --main-primary-font: "Arial Rounded MT Pro Cyr";
 }
+
+body {
+  background-image: linear-gradient(165deg,#234281 5%,rgba(142, 220, 128, 0.85) 121%);
+  font-family: Baskerville, sans-serif;
+}
